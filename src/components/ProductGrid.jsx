@@ -1,7 +1,7 @@
 import { useState } from "react";
-import { PRODUCTS } from "../../data";
+import { PRODUCTS } from "../data";
 import ProductCard from "./ProductCard";
-import Pagination from "./Pagination";
+import Pagination from "./Pagnation";
 
 const SORT_OPTIONS = ["Best match", "Price: Low to High", "Price: High to Low", "Newest first"];
 

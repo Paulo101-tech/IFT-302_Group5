@@ -1,4 +1,4 @@
-import { CATEGORIES } from "../../data";
+import { CATEGORIES } from "../data";
 
 export default function CategoryStrip() {
   return (

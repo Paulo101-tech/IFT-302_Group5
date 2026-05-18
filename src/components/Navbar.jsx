@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NAV_LINKS } from "../../data";
+import { NAV_LINKS } from "../data";
 
 const NAV_ICONS = [
   {

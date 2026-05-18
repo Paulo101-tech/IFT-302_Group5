@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { SIDEBAR_CATEGORIES, BRANDS, CONDITIONS } from "../../data";
-import StarRating from "../../utils/StarRating";
+import { SIDEBAR_CATEGORIES, BRANDS, CONDITIONS } from "../data";
+import StarRating from "../utils/StarRating";
 
 const Divider = () => (
   <div style={{ height: 1, background: "#F3F4F6", margin: "0 16px 16px" }} />

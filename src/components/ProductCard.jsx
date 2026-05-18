@@ -1,5 +1,5 @@
 import { useState } from "react";
-import StarRating from "../../utils/StarRating";
+import StarRating from "../utils/StarRating";
 
 export default function ProductCard({ product }) {
   const [liked, setLiked] = useState(false);
